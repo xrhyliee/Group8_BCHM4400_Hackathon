@@ -1,2 +1,3 @@
 # Group8_BCHM4400_Hackathon
-Hackathon repository
+
+Technical report of project.
