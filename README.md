@@ -188,7 +188,7 @@ Point mutation is a genetic mutation where a single pair of DNA or RNA has been 
 We also saw that thyroid activities play a major part in the cardiac function, related to aorta. 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8558494/
 
-Because of the connection between aorta and the thyroid activities, as well as that gene coding thyroid stimulatin hormone receptor had interactions with HBB, we came up with our hypothesis. 
+Because of the connection between aorta and the thyroid activities, and the gene coding thyroid stimulatin hormone receptor had interactions with HBB, we came up with our hypothesis. 
 
 H: Sickel cell anemia is caused by disregulation of thyroid activity. 
 
