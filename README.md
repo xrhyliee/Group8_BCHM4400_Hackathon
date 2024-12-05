@@ -186,5 +186,7 @@ Point mutation is a genetic mutation where a single pair of DNA or RNA has been 
 H: Sickel cell anemia is caused by disregulationof thyroid activity. 
 
 E1: 100 genes that are enriched for thyroid signaling.
+
 E2: 
+
 E3:
