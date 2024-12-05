@@ -1,8 +1,8 @@
 # Group8_BCHM4400_Hackathon
 # Disease of Interest: Sickle Cell Anemia
 # Gene Name: Hemoglobin- Beta Locus (HBB)
-# Protein:Protein Interactions
-# 1. Protein:Protein Interactions 
+# Protein: Protein Interactions
+# 1. Protein: Protein Interactions 
 ```
 HBB
 HBA1
