@@ -183,3 +183,6 @@ ENSG00000244734.4	HBB	chr11_4563662_A_C_b38	rs151024328	0.000078	0.90	Artery - A
 # 3. Hypothesis
 Point mutation is a genetic mutation where a single pair of DNA or RNA has been changed, inserted, or deleted. We hypothesize for sickle cell anemia in the Hemoglobin-beta locus (HBB) that the DNA has undergone point mutation. We suspect that this is happening at the sixth codon position, A - T, causing this specific codon to code for valine instead of the expected glutamine, which the non-mutated Hemoglobin-beta locus should code for. This new coding sequence causes a warp in the protein structure giving RBC’s its signature cell shape that we associate with sickle cell anemia.  
 
+H: Sickel cell anemia is caused by disregulationof thyroid activity. 
+E1: 100 genes that are enriched for thyroid signaling.
+
