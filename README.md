@@ -190,11 +190,13 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC8558494/
 
 Because of the connection between aorta and the thyroid activities, and the gene coding thyroid stimulatin hormone receptor had interactions with HBB, we came up with our hypothesis. 
 
-H: Sickel cell anemia is caused by disregulation of thyroid activity. 
+H: Sickel cell anemia is caused by disregulation of thyroid hormone activity. 
 
 E1: 100 genes that are enriched for thyroid stimulating hormone receptor.
 
 E2: A 2023 study found that TSH at various concentrations (1, 2, 3, and 5 mIU/L) was able to reduce the polymerization of hemoglobin S (HbS) and increase its solubility.
 [https://pmc.ncbi.nlm.nih.gov/articles/PMC10429451/](url)
 
-E3:
+E3: The thyroid stimulating hormone receptor (TSHR) is a protein on the surfaace of thyroid cells that binds to thyroid stimulating hormone (TSH). TSH triggers the thyrpod gland to produce thyroid hormones that regulate metabolism throughout the body (NIH). Research suggests that there is a potential link between TSHR and sickle cell anemia due to studies showing that pateints with sickle cell anemia might expreince thyroid dysfunction due to factor like chronic blood transfusions and tissue damage (MedlinePlus)
+
+E4: Thyroid hormones directly effect the function of the aorta. Abnormal thyroid function can influence the health and eleasticlty of the aorta which can contribute to condintions like aortic stifeness ans hypertension. The thyroid hormones play a role in regulating blood pressure and vascular fuction, which is directly related to the aorta's role in blood circulation (NIH, Mayo Clinic).
