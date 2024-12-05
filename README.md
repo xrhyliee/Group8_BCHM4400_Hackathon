@@ -191,5 +191,6 @@ H: Sickel cell anemia is caused by disregulation of thyroid activity.
 E1: 100 genes that are enriched for thyroid stimulating hormone receptor.
 
 E2: A 2023 study found that TSH at various concentrations (1, 2, 3, and 5 mIU/L) was able to reduce the polymerization of hemoglobin S (HbS) and increase its solubility.
+[https://pmc.ncbi.nlm.nih.gov/articles/PMC10429451/](url)
 
 E3:
