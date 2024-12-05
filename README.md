@@ -172,6 +172,7 @@ PPIA
 ```
 # 2. Tissue-specific eQTLs DNA polymorphisms
 ```
+eQTLs are genetic variants that influence the expression level of one or more genes. They help us understand how genetic variations can affect gene expression, which in turn can influence traits or disease susceptibility.
 chr11_4291719_G_C_b38
 Gencode Id	Gene Symbol	Variant Id	SNP Id	P-Value	NES	Tissue
 ENSG00000175800.5	OR52B3P	chr11_4291719_G_C_b38	rs77249606	5.4e-7	0.18	Whole Blood
