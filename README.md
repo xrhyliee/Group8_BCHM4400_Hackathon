@@ -2,8 +2,9 @@
 # Disease of Interest: Sickle Cell Anemia
 # Gene Name: Hemoglobin- Beta Locus (HBB)
 # Protein:Protein Interactions
-1. Protein:Protein Interactions 
- HBB
+# 1. Protein:Protein Interactions 
+```
+HBB
 HBA1
 HP
 UPF3A
@@ -168,5 +169,6 @@ TRIM21
 POLD1
 CDC123
 PPIA
+```
 
 
